@@ -2,7 +2,7 @@
   "name": "tour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Harman-preet-singh13.github.io/himachal-tourism-",
+  //"homepage": "https://Harman-preet-singh13.github.io/himachal-tourism-",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
